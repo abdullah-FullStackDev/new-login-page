@@ -18,3 +18,12 @@ body{
   text-align: center;
   font-size: 15px;
 }
+.name{
+    width: 100%;
+    border: 1px solid silver;
+}
+.btn{
+    width: 100%;
+    border: 1px solid   #49c1a2;
+
+}
