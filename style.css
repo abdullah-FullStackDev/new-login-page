@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #ecedef;
+    line-height: 1.8;
+}
+.container{
+    max-width: 430px;
+    margin: 30px auto;
+}
+.form-wrap{
+    background-color: #fff;
+    padding: 20px 30px;
+    border-top: solid 4px #49c1a2;   
+}
