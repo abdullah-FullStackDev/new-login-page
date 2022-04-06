@@ -10,7 +10,7 @@ this is made with html5 and css3
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/product-landing/)
+[Live Demo Link](https://abdullah-fullstackdev.github.io/new-login-page/)
 
 ## Getting Started
 
